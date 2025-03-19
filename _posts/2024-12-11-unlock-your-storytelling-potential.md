@@ -6,7 +6,7 @@ categories: [ "Storytelling Exercises" ]
 #tags: [red, yellow]
 image: assets/images/undraw_Nature_fun_re_gkjt.png
 description: "10 most effective exercises that help you find, craft, and share stories."
-featured: true
+featured: false
 #hidden: true
 #rating: 4.5
 ---
