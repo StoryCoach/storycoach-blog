@@ -6,7 +6,7 @@ categories: [ 'videos', 'tips' ]
 #tags: [red, yellow]
 image: assets/images/7-years-of-storytelling-advice.png
 description: "Philipp Humm shares 7 years of storytelling advice in 54 minutes"
-featured: true
+featured: false
 #hidden: true
 #rating: 4.5
 ---
