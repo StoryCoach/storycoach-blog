@@ -253,7 +253,7 @@ When you're ready to develop a story spark into a full narrative, get personaliz
 
 Join others who are building their storytelling practice. Share sparks. Get inspired. Stay accountable.
 
-[Learn more about Homework for Life →](https://storycoach.app/homework-for-life)
+[Learn more about Homework for Life →](https://storycoach.app/homework_for_life)
 
 ## The Stories You'll Wish You Captured
 
@@ -347,6 +347,6 @@ Your future self—the one giving that keynote, nailing that interview, winning 
 
 ### Recommended Resources:
 
-* [Homework for Life: The Complete Guide](https://storycoach.app/homework-for-life)
+* [Homework for Life: The Complete Guide](https://storycoach.app/homework_for_life)
 * *Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling* by Matthew Dicks
 * [StoryCoach Plans & Pricing](https://storycoach.app/pricing)
