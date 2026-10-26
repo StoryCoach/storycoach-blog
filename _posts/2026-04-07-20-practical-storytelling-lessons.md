@@ -201,7 +201,7 @@ If you want to turn these lessons into a habit, here's a lightweight workflow:
 3. Add one technique per revision (dialogue, stakes, ticking clock, etc.)
 4. Run it through feedback using a structure like **CART**
 
-**Ready to practice? Start free:** [https://storycoach.app](https://storycoach.app)
+**Ready to practice? Start free:** [https://storycoach.app](https://storycoach.app?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)
 
 ## Credit
 

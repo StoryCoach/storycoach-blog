@@ -144,11 +144,11 @@ That's when your story lives in their heart forever.
 
 ## Start Your Storytelling Practice
 
-Ready to build your storytelling habit? [StoryCoach](https://storycoach.app) offers daily prompts, AI feedback, and a structured approach to help you find, craft, and share your most authentic stories.
+Ready to build your storytelling habit? [StoryCoach](https://storycoach.app?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post) offers daily prompts, AI feedback, and a structured approach to help you find, craft, and share your most authentic stories.
 
 Whether you're a founder preparing for investor pitches, a creative looking to connect with your audience, or a professional who wants to communicate with more impact—your real stories are your superpower.
 
-[Start Your Storytelling Journey →](https://storycoach.app)
+[Start Your Storytelling Journey →](https://storycoach.app?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)
 
 ### Recommended Reading:
 

@@ -2,6 +2,7 @@
 name: "StoryCoach Blog"
 title: "StoryCoach"
 description: "Tools, tips, and tricks to help you unlock your storytelling potential."
+url: "https://blog.storycoach.app"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll

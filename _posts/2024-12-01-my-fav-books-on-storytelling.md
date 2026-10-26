@@ -5,7 +5,7 @@ author: rutul
 categories: [ 'book summaries', 'books' ]
 #tags: [red, yellow]
 image: assets/images/undraw_Bookshelves_re_lxoy.png
-description: "My favorite books on storytelling"
+description: "My favorite books on storytelling, led by Matthew Dicks' Storyworthy: practical reads that teach you how to find, craft, and tell better stories."
 featured: true
 #hidden: true
 #rating: 4.5
@@ -19,7 +19,7 @@ If you ever ask me for a book recommendation, I'll likely suggest all or one of 
 
 2. [Storyworthy: Engage, Teach, Persuade, and Change Your Life Through the Power of Storytelling](https://a.co/d/fnagidk){:target="_blank"}, Matthew Dicks
 
-    If there is only one book that you read on storytelling, let that be Storyworthy. This book by Matthew Dicks offers practical techniques to craft and tell compelling personal stories, emphasizing the importance of identifying meaningful moments from everyday life. Dicks introduces the "Homework for Life" exercise to help uncover storytelling gems and teaches strategies to engage audiences emotionally and authentically.
+    If there is only one book that you read on storytelling, let that be Storyworthy. This book by Matthew Dicks offers practical techniques to craft and tell compelling personal stories, emphasizing the importance of identifying meaningful moments from everyday life. Dicks introduces the "[Homework for Life](https://storycoach.app/homework_for_life?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=homework_for_life)" exercise to help uncover storytelling gems and teaches strategies to engage audiences emotionally and authentically.
 
 3. [Pixar Storytelling: Rules for Effective Storytelling Based on Pixar’s Greatest Films](https://a.co/d/cH4jxGL){:target="_blank"}, Dean Movshovitz
 

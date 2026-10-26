@@ -94,8 +94,8 @@ Because the difference between a forgettable story and an unforgettable one ofte
 
 **Ready to refine your stories with AI-powered coaching?**
 
-[Learn more about AI Feedback →](https://storycoach.app)
+[Learn more about AI Feedback →](https://storycoach.app?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)
 
 Start your StoryCoach journey and get instant feedback based on proven storytelling frameworks. Turn your good stories into great ones.
 
-[Explore StoryCoach Plans →](https://storycoach.app/pricing)
+[Explore StoryCoach Plans →](https://storycoach.app/pricing?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)

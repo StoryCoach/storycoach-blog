@@ -24,7 +24,7 @@ Every single day.
 
 For over a decade.
 
-That's the power of what he calls "Homework for Life"—a five-minute daily practice that transforms how you see your world and builds an endless supply of stories.
+That's the power of what he calls "[Homework for Life](https://storycoach.app/homework_for_life?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=homework_for_life)"—a five-minute daily practice that transforms how you see your world and builds an endless supply of stories.
 
 At StoryCoach, we've built this exact practice into our platform through the Memory Bank. And today, I'm going to show you why this simple habit might be the most powerful storytelling tool you'll ever use.
 
@@ -253,7 +253,7 @@ When you're ready to develop a story spark into a full narrative, get personaliz
 
 Join others who are building their storytelling practice. Share sparks. Get inspired. Stay accountable.
 
-[Learn more about Homework for Life →](https://storycoach.app/homework_for_life)
+[Learn more about Homework for Life →](https://storycoach.app/homework_for_life?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=homework_for_life)
 
 ## The Stories You'll Wish You Captured
 
@@ -339,7 +339,7 @@ And you'll never again say, "I don't have any good stories."
 
 Ready to build your storytelling habit?
 
-[Start your Memory Bank with StoryCoach →](https://storycoach.app)
+[Start your Memory Bank with StoryCoach →](https://storycoach.app?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)
 
 Try our 7-day Story Starter plan and experience Homework for Life with daily prompts, guided exercises, and AI feedback.
 
@@ -347,6 +347,6 @@ Your future self—the one giving that keynote, nailing that interview, winning 
 
 ### Recommended Resources:
 
-* [Homework for Life: The Complete Guide](https://storycoach.app/homework_for_life)
+* [Homework for Life: The Complete Guide](https://storycoach.app/homework_for_life?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=homework_for_life)
 * *Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling* by Matthew Dicks
-* [StoryCoach Plans & Pricing](https://storycoach.app/pricing)
+* [StoryCoach Plans & Pricing](https://storycoach.app/pricing?utm_source=storycoach_blog&utm_medium=post_link&utm_campaign=blog_post)
